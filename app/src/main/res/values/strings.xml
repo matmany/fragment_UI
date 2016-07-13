@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">fragment_UI</string>
+
+    <string-array name="titles">
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Content Providers</item>
+        <item>Intents and Intent Filters</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>hot</item>
+        <item>very hot</item>
+        <item>super hot</item>
+        <item>the hot</item>
+    </string-array>
+</resources>
